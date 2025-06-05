@@ -1,0 +1,7 @@
+python-telegram-bot 
+pandas
+ipykernel
+scikit-learn 
+torch 
+transformers 
+datasets
